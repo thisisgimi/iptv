@@ -1,0 +1,337 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkyCinema" tvg-logo="SkyCinema.png",SkyCinema
+http://skyfall.to/SkyCinema/index.m3u8
+#EXTINF:-1 tvg-id="Sky.National.GeographicHD",Sky.National.GeographicHD
+http://skyfall.to/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="Sky.National.Geographic.Wild",Sky.National.Geographic.Wild
+http://skyfall.to/NatGeoWild/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Discovery.Channel.HD",Sky.DiscoveryHD
+http://skyfall.to/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction" tvg-logo="SkyCinemaAction.png",SkyCinemaAction
+http://skyfall.to/SkyCinemaAction/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaEmotion" tvg-logo="SkyCinemaEmotion.png",SkyCinemaEmotion
+http://skyfall.to/SkyCinemaEmotion/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaComedy" tvg-logo="SkyCinemaComedy.png",SkyCinemaComedy
+http://skyfall.to/SkyCinemaComedy/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinema24" tvg-logo="SkyCinema24.png",SkyCinema24
+http://skyfall.to/SkyCinema24/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinema24" tvg-logo="SkyCinema24.png",SkyCinema24
+http://skyfall.to/SkyKrimi/index.m3u8
+#EXTINF:-1 tvg-id="SkyKrimi" tvg-logo="SkyKrimi.png",SkyKrimi
+http://skyfall.to/SkyKrimi/index.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",SERVUS TV DE
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="ard.png",ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="tagesschau24.png",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="zdfneo.png",ZDF NEO
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="zdfinfo.png",ZDF INFO
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+#EXTINF:-1 tvg-id="ZDFtheater.de" tvg-logo="zdfkultur.png",ZDF KULTUR
+http://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="3sat.png",3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="phoenix.png",PHOENIX
+http://zdf_hds_de-f.akamaihd.net/i/de09_v1@87012/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",SERVUS TV DE
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-logo="servustv.png",SERVUS TV AT
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+#EXTINF:-1 tvg-id="n24.de" tvg-logo="n24.png",N24
+http://n24-live.hls.adaptive.level3.net/n24/live2cms/live2cms.m3u8
+#EXTINF:-1 tvg-id="Sky_Select_8HD",DE_Sky_Select_8HD
+http://163.172.16.246:9998/live/mile/skype/583.m3u8
+#EXTINF:-1 tvg-id="Sky.National.GeographicHD",Sky.National.GeographicHD
+http://163.172.16.246:9998/live/mile/skype/576.m3u8
+#EXTINF:-1 tvg-id="Sky.Discovery.Channel.HD",Sky.DiscoveryHD
+http://163.172.16.246:9998/live/mile/skype/575.m3u8
+#EXTINF:-1 radio=true tvg-logo="teddy.png.png",Radio Teddy
+http://217.160.14.96:8000/intro.radioteddy.mp3
+#EXTINF:-1 radio=true tvg-logo="b2.png",Radio B2 Berlin
+http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+#EXTINF:-1 radio=true tvg-logo="b2.png",Radio RS2 Berlin
+http://stream.rs2.de/rs2/mp3-128/radioplayerde/;stream.nsv
+#EXTINF:-1 radio=true tvg-logo="top100station.png",TOP 100 STATION
+http://87.230.101.30:80
+#EXTINF:-1 radio=true tvg-logo="SR_UnserDing.png",103.7 UNSERDING
+http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w62a
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive.png",1LIVE
+http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live.mp3
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive.png",NEU FÜR DEN SEKTOR
+http://1live-sektor.akacast.akamaistream.net/7/551/119449/v1/gnl.akacast.akamaistream.net/1live-sektor
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive.png",HIPHOP
+http://1live-hiphop.akacast.akamaistream.net/7/63/119451/v1/gnl.akacast.akamaistream.net/1live-hiphop
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive.png",FIEHE
+http://1live-fiehe.akacast.akamaistream.net/7/201/119447/v1/gnl.akacast.akamaistream.net/1live-fiehe
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive.png",SPECIAL
+http://1live-specials.akacast.akamaistream.net/7/59/119450/v1/gnl.akacast.akamaistream.net/1live-specials
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive_diggi.png",DIGGI
+http://1live-diggi.akacast.akamaistream.net/7/965/119435/v1/gnl.akacast.akamaistream.net/1live-diggi
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive.png",1LIVE ROCKER
+http://1live-rocker.akacast.akamaistream.net/7/36/119452/v1/gnl.akacast.akamaistream.net/1live-rocker
+#EXTINF:-1 radio=true tvg-logo="wdr_einslive.png",1LIVE PLAN B
+http://1live-plan-b.akacast.akamaistream.net/7/905/119448/v1/gnl.akacast.akamaistream.net/1live-plan-b
+#EXTINF:-1 radio=true tvg-logo="antenne_bbg.png",ANTENNE BRANDENBURG
+http://rbb-mp3-antenneb-m.akacast.akamaistream.net/7/516/292092/v1/gnl.akacast.akamaistream.net/rbb_mp3_antenneb_m
+#EXTINF:-1 radio=true tvg-logo="br_b5aktuell.png",B5 AKTUELL
+http://br-mp3-b5aktuell-m.akacast.akamaistream.net/7/779/142694/v1/gnl.akacast.akamaistream.net/br_mp3_b5aktuell_m
+#EXTINF:-1 radio=true tvg-logo="br_bayernplus.png",B 5 PLUS
+http://br-mp3-b5plus-m.akacast.akamaistream.net/7/1/142695/v1/gnl.akacast.akamaistream.net/br_mp3_b5plus_m
+#EXTINF:-1 radio=true tvg-logo="br_bayern1.png",BAYERN 1
+http://br-mp3-bayern1obb-m.akacast.akamaistream.net/7/273/142690/v1/gnl.akacast.akamaistream.net/br_mp3_bayern1obb_m
+#EXTINF:-1 radio=true tvg-logo="br_bayern2.png",BAYERN 2
+http://br-mp3-bayern2sued-m.akacast.akamaistream.net/7/731/256282/v1/gnl.akacast.akamaistream.net/br_mp3_bayern2sued_m
+#EXTINF:-1 radio=true tvg-logo="br_bayern3.png",BAYERN 3
+http://br-mp3-bayern3-m.akacast.akamaistream.net/7/442/142692/v1/gnl.akacast.akamaistream.net/br_mp3_bayern3_m
+#EXTINF:-1 radio=true tvg-logo="br_heimat.jpg",BR HEIMAT
+http://br-mp3-brheimat-m.akacast.akamaistream.net/7/738/326703/v1/gnl.akacast.akamaistream.net/br_mp3_brheimat_m
+#EXTINF:-1 radio=true tvg-logo="br_bayernplus.png",BAYERN PLUS
+http://br-mp3-bayernplus-m.akacast.akamaistream.net/7/624/142696/v1/gnl.akacast.akamaistream.net/br_mp3_bayernplus_m
+#EXTINF:-1 radio=true tvg-logo="rb_bremeneins.png",BREMEN EINS
+http://rb-mp3-m-bremeneins.akacast.akamaistream.net/7/716/234436/v1/gnl.akacast.akamaistream.net/rb-mp3-m-bremeneins
+#EXTINF:-1 radio=true tvg-logo="rb_bremenvier.png",BREMEN VIER
+http://rb-mp3-m-bremenvier.akacast.akamaistream.net/7/23/234437/v1/gnl.akacast.akamaistream.net/rb-mp3-m-bremenvier
+#EXTINF:-1 radio=true tvg-logo="rb_bremenvier.png",BREMEN VIER NEXT
+http://rb-mp3-m-bremennext.akacast.akamaistream.net/7/705/234439/v1/gnl.akacast.akamaistream.net/rb-mp3-m-bremennext
+#EXTINF:-1 radio=true tvg-logo="rb_bremenvier.png",BREMEN VIER ROCKT
+http://webchannel.radiobremen.de:8000/rockt
+#EXTINF:-1 radio=true tvg-logo="br_brklassik.png",BR-KLASSIK
+http://br-mp3-br-klassik-m.akacast.akamaistream.net/7/120/142693/v1/gnl.akacast.akamaistream.net/br_mp3_br-klassik_m
+#EXTINF:-1 radio=true tvg-logo="swr_dasding.png",DASDING
+http://swr-mp3-m-dasding.akacast.akamaistream.net/7/588/137139/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasding
+#EXTINF:-1 radio=true tvg-logo="swr_dasding.png",LAUTSTARK
+http://swr-mp3-m-dasdingraka01.akacast.akamaistream.net/7/90/137150/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasdingraka01
+#EXTINF:-1 radio=true tvg-logo="swr_dasding.png",PLATTENLEGER
+http://swr-mp3-m-dasdingraka03.akacast.akamaistream.net/7/92/137152/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasdingraka03
+#EXTINF:-1 radio=true tvg-logo="swr_dasding.png",SPRECHSTUNDE
+http://swr-mp3-m-dasdingraka02.akacast.akamaistream.net/7/91/137151/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasdingraka02
+#EXTINF:-1 radio=true tvg-logo="deutschlandfunk.png",DEUTSCHLANDFUNK
+http://stream.dradio.de/7/249/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dlf_m
+#EXTINF:-1 radio=true tvg-logo="dradioKultur.png",DEUTSCHLANDRADIO KULTUR
+http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m
+#EXTINF:-1 radio=true tvg-logo="dradioKultur.png",DOKUMENTE UND DEBATTEN
+http://dradio_mp3_dokdeb_s.akacast.akamaistream.net/7/725/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dokdeb_s
+#EXTINF:-1 radio=true tvg-logo="dradioWissen.png",DRADIO WISSEN
+http://stream.dradio.de/7/728/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dwissen_m
+#EXTINF:-1 radio=true tvg-logo="rbb_fritz.png",FRITZ
+http://rbb-mp3-fritz-m.akacast.akamaistream.net/7/799/292093/v1/gnl.akacast.akamaistream.net/rbb_mp3_fritz_m
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",FUNKHAUS EUROPA
+http://funkhaus-europa.akacast.akamaistream.net/7/264/119440/v1/gnl.akacast.akamaistream.net/funkhaus-europa
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",BALKANIZER
+http://fhe-balkanizer.akacast.akamaistream.net/7/631/276068/v1/gnl.akacast.akamaistream.net/fhe-balkanizer
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",BEAT THE NIGHT
+http://fhe-beatthenight.akacast.akamaistream.net/7/39/276069/v1/gnl.akacast.akamaistream.net/fhe-beatthenight
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",DSCHUNGELFIEBER
+http://fhe-dschungelfieber.akacast.akamaistream.net/7/986/276070/v1/gnl.akacast.akamaistream.net/fhe-dschungelfieber
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",GLOBAL PLAYER LOUNGE
+http://fhe-globalpoplounge.akacast.akamaistream.net/7/934/276072/v1/gnl.akacast.akamaistream.net/fhe-globalpoplounge
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",GLOBALISTA
+http://fhe-globalista.akacast.akamaistream.net/7/199/276073/v1/gnl.akacast.akamaistream.net/fhe-globalista
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",INDIGO
+http://fhe-indigo.akacast.akamaistream.net/7/922/276074/v1/gnl.akacast.akamaistream.net/fhe-indigo
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",LA DOLCE VITA
+http://fhe-dolcevita.akacast.akamaistream.net/7/595/276075/v1/gnl.akacast.akamaistream.net/fhe-dolcevita
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",LUSO
+http://fhe-lusofm.akacast.akamaistream.net/7/175/276076/v1/gnl.akacast.akamaistream.net/fhe-lusofm
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",MESTIZO FM
+http://fhe-mestizo.akacast.akamaistream.net/7/606/276077/v1/gnl.akacast.akamaistream.net/fhe-mestizo
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",SOULFOOD
+http://fhe-soulfood.akacast.akamaistream.net/7/180/276078/v1/gnl.akacast.akamaistream.net/fhe-soulfood
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",AL-SAUT AL-ARABI
+http://fhe-arabisch.akacast.akamaistream.net/7/268/195513/v1/gnl.akacast.akamaistream.net/fhe-arabisch
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",ELLINIKO RANDEVOU
+http://fhe-elliniko.akacast.akamaistream.net/7/908/276071/v1/gnl.akacast.akamaistream.net/fhe-elliniko
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",ESTACION SUR
+http://fhe-spanisch.akacast.akamaistream.net/7/641/195512/v1/gnl.akacast.akamaistream.net/fhe-spanisch
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",GLOBAL PLAYER SELECTOR
+http://fhe-selector.akacast.akamaistream.net/7/615/195514/v1/gnl.akacast.akamaistream.net/fhe-selector
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",PROGRAMMA NA RUSSKOM JASYKE
+http://fhe-russisch.akacast.akamaistream.net/7/786/195509/v1/gnl.akacast.akamaistream.net/fhe-russisch
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",POLSKI MAGAZYN RADIOWY
+http://fhe-polnisch.akacast.akamaistream.net/7/768/195510/v1/gnl.akacast.akamaistream.net/fhe-polnisch
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",RADIOPOLIS
+http://fhe-griechisch.akacast.akamaistream.net/7/339/195511/v1/gnl.akacast.akamaistream.net/fhe-griechisch
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",WORLD LIVE
+http://fhe-worldlive.akacast.akamaistream.net/7/346/195515/v1/gnl.akacast.akamaistream.net/fhe-worldlive
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",5PLANETEN
+http://fhe-5planeten.akacast.akamaistream.net/7/220/119445/v1/gnl.akacast.akamaistream.net/fhe-5planeten
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",BERNAMA KURDI
+http://fhe-bermana-kurdi.akacast.akamaistream.net/7/876/119454/v1/gnl.akacast.akamaistream.net/fhe-bermana-kurdi
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",KÖLN RADYOSU
+http://fhe-trkisch-klnradyosunet.akacast.akamaistream.net/7/968/119442/v1/gnl.akacast.akamaistream.net/fhe-trkisch-klnradyosunet
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",RADIO FORUM
+http://fhe-serbisch-netradioforum.akacast.akamaistream.net/7/223/119441/v1/gnl.akacast.akamaistream.net/fhe-serbisch-netradioforum
+#EXTINF:-1 radio=true tvg-logo="wdr_funkhaus_europa.png",RADIO COLONIA
+http://fhe-radio-colonia.akacast.akamaistream.net/7/265/119453/v1/gnl.akacast.akamaistream.net/fhe-radio-colonia
+#EXTINF:-1 radio=true tvg-logo="hr_hr1.png",HR1
+http://hr-mp3-m-h1.akacast.akamaistream.net/7/783/142131/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h1
+#EXTINF:-1 radio=true tvg-logo="hr_hr2.png",HR2-KULTUR
+http://hr-mp3-m-h2.akacast.akamaistream.net/7/786/142132/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h2
+#EXTINF:-1 radio=true tvg-logo="hr_hr3.png",HR3
+http://hr-mp3-m-h3.akacast.akamaistream.net/7/785/142133/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h3
+#EXTINF:-1 radio=true tvg-logo="hr_hr4.png",HR4
+http://hr-mp3-m-h4.akacast.akamaistream.net/7/780/142134/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h4
+#EXTINF:-1 radio=true tvg-logo="hr_hrinfo.png",HR-INFO
+http://hr-mp3-m-hrinfo.akacast.akamaistream.net/7/698/142135/v1/gnl.akacast.akamaistream.net/hr-mp3-m-hrinfo
+#EXTINF:-1 radio=true tvg-logo="rbb_inforadio.png",INFORADIO
+http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m
+#EXTINF:-1 radio=true tvg-logo="wdr_kiraka.png",KIRAKA
+http://kiraka.akacast.akamaistream.net/7/285/119443/v1/gnl.akacast.akamaistream.net/kiraka
+#EXTINF:-1 radio=true tvg-logo="rbb_kulturradio.png",KULTURRADIO
+http://rbb-mp3-kulturradio-m.akacast.akamaistream.net/7/935/292095/v1/gnl.akacast.akamaistream.net/rbb_mp3_kulturradio_m
+#EXTINF:-1 radio=true tvg-logo="mdr_mdr1radiosachsen.png",MDR 1 RADIO SACHSEN
+http://c22033-l.i.core.cdn.streamfarm.net/22001mdr1sachsen/live/3087mdr_sachsen/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrfigaro.png",MDR FIGARO
+http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrfigaro.png",CLASSIC IN CONCERT
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_classic_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrfigaro.png",FIGARINO
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_figarino_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrfigaro.png",FOLK IN CONCERT
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_folk_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrinfo.png",MDR INFO
+http://c22033-l.i.core.cdn.streamfarm.net/22006mdr/live/3087mdr_info/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrjump.png",MDR JUMP
+http://c22033-ls.i.core.cdn.streamfarm.net/T3R6XGogC9922033/22033mdr/live/app2128740352/w2128904194/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrjump.png",IN THE MIX CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_jump/ch_inthemix_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrjump.png",ROCK CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_jump/ch_rock_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrjump.png",TREND CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_jump/ch_trend_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrklassik.png",MDR KLASSIK
+http://c22033-l.i.core.cdn.streamfarm.net/22008mdrklassik/live/3087mdrklassik/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsachsen-anhalt.png",MDR SACHSEN-ANHALT
+http://c22033-ls.i.core.cdn.streamfarm.net/Z0nRRFVT49922033/22033mdr/live/app2128740352/w2128904198/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",BLACK CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_black_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",CLUB CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_club_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",INSOMNIA CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_insomnia_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",MDR SPUTNIK 
+http://c22033-ls.i.core.cdn.streamfarm.net/UjIe753Ui9922033/22033mdr/live/app2128740352/w2128904195/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",POPKULT CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_popkult_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",ROCK CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_rock_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",SOUNDCHECK CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_soundcheck_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrsputnik.png",ROBOTON CHANNEL
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_roboton_128.mp3
+#EXTINF:-1 radio=true tvg-logo="mdr_mdrthueringen.png",MDR THÜRINGEN - DAS RADIO
+http://c22033-ls.i.core.cdn.streamfarm.net/9lBrdAv9G9922033/22033mdr/live/app2128740352/w2128904199/live_de_128.mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr1_ns.png",NDR 1 NIEDERSACHSEN
+http://ndr-ndr1-han-mp3.akacast.akamaistream.net/7/807/273766/v1/gnl.akacast.akamaistream.net/ndr_ndr1_han_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr1radiomv.png",NDR 1 RADIO MV
+http://ndr-ndrradiomv-sn-mp3.akacast.akamaistream.net/7/992/273771/v1/gnl.akacast.akamaistream.net/ndr_ndrradiomv_sn_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr1wn.png",NDR 1 WELLE NORD
+http://ndr-ndr1wellenord-ki-mp3.akacast.akamaistream.net/7/161/273761/v1/gnl.akacast.akamaistream.net/ndr_ndr1wellenord_ki_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndrblue.png",NDR BLUE
+http://ndr-ndrblue-mp3.akacast.akamaistream.net/7/803/273759/v1/gnl.akacast.akamaistream.net/ndr_ndrblue_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",NDR 2
+http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",NDR 2 EASY SOUNDS
+http://ndr-ndrloop23-hi-mp3.akacast.akamaistream.net/7/578/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop23_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",NDR 2 ROCK
+http://ndr-ndrloop21-hi-mp3.akacast.akamaistream.net/7/484/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop21_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",NDR 2 SOUL
+http://ndr-ndrloop22-hi-mp3.akacast.akamaistream.net/7/784/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop22_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",SOUNDCHECK LIVE
+http://ndr-ndrloop15-hi-mp3.akacast.akamaistream.net/7/763/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop15_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",SOUNDCHECK MILESTONES
+http://ndr-ndrloop16-hi-mp3.akacast.akamaistream.net/7/284/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop16_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",SOUNDCHECK MUSIKSZENE DEUTSCHLAND
+http://ndr-ndrloop17-hi-mp3.akacast.akamaistream.net/7/363/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop17_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr2.png",SOUNDCHECK NEUE MUSIK
+http://ndr-ndrloop18-hi-mp3.akacast.akamaistream.net/7/413/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop18_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndr903.png",NDR 90.3
+http://ndr-ndr903-mp3.akacast.akamaistream.net/7/956/273760/v1/gnl.akacast.akamaistream.net/ndr_ndr903_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndrinfo-10.png",NDR INFO
+http://ndr-ndrinfo-nds-mp3.akacast.akamaistream.net/7/250/273753/v1/gnl.akacast.akamaistream.net/ndr_ndrinfo_nds_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndrinfo.png",NDR INFO SPEZIAL
+http://ndr-ndrinfo-spezial-mp3.akacast.akamaistream.net/7/795/273757/v1/gnl.akacast.akamaistream.net/ndr_ndrinfo_spezial_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_ndrkultur.png",NDR KULTUR
+http://ndr-ndrkultur-mp3.akacast.akamaistream.net/7/527/273758/v1/gnl.akacast.akamaistream.net/ndr_ndrkultur_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",N-JOY
+http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",ABSTRAIT
+http://ndr-ndrloop25-hi-mp3.akacast.akamaistream.net/7/206/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop25_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",FLAVOR MIX
+http://ndr-ndrloop7-hi-mp3.akacast.akamaistream.net/7/663/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop7_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",IN THE MIX
+http://ndr-ndrloop28-hi-mp3.akacast.akamaistream.net/7/650/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop28_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",MORNINGSHOW
+http://ndr-ndrloop27-hi-mp3.akacast.akamaistream.net/7/873/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop27_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",POP
+http://ndr-ndrloop29-hi-mp3.akacast.akamaistream.net/7/477/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop29_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",SOUNDFILES ALTERNATIVE
+http://ndr-ndrloop5-hi-mp3.akacast.akamaistream.net/7/749/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop5_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="ndr_njoy.png",SOUNDFILES HIPHOP
+http://ndr-ndrloop6-hi-mp3.akacast.akamaistream.net/7/990/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop6_hi_mp3
+#EXTINF:-1 radio=true tvg-logo="rb_nordwestradio.png",NORDWESTRADIO
+http://rb-mp3-m-nordwestradio.akacast.akamaistream.net/7/639/234438/v1/gnl.akacast.akamaistream.net/rb-mp3-m-nordwestradio
+#EXTINF:-1 radio=true tvg-logo="br_brpuls.png",PULS
+http://br-mp3-puls-m.akacast.akamaistream.net/7/501/142689/v1/gnl.akacast.akamaistream.net/br_mp3_puls_m
+#EXTINF:-1 radio=true tvg-logo="rbb_radio_berlin.png",RADIOBERLIN 88.8
+http://rbb-mp3-radioberlin-m.akacast.akamaistream.net/7/70/292096/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioberlin_m
+#EXTINF:-1 radio=true tvg-logo="rbb_radio_eins.png",RADIOEINS
+http://rbb-mp3-radioeins-m.akacast.akamaistream.net/7/854/292097/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioeins_m
+#EXTINF:-1 radio=true tvg-logo="SR_UnserDing.png",SCHWARZ
+http://gffstream.ic.llnwd.net/stream/gffstream_gffstream3
+#EXTINF:-1 radio=true tvg-logo="SR_SR1Europawelle.png",SR 1 EUROPAWELLE
+http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w56a
+#EXTINF:-1 radio=true tvg-logo="SR_SR1Europawelle.png",SR 1-LOUNGE
+http://gffstream.ic.llnwd.net/stream/gffstream_w24a
+#EXTINF:-1 radio=true tvg-logo="SR_SR2KulturRadio.png",SR 2 KULTURRADIO
+http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w58a
+#EXTINF:-1 radio=true tvg-logo="SR_SR2KulturRadio.png",SR 2-OFFBEAT
+http://gffstream.ic.llnwd.net/stream/gffstream_w25a
+#EXTINF:-1 radio=true tvg-logo="SR_SR3Saarlandwelle.png",SR 3 SAARLANDWELLE
+http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w60a
+#EXTINF:-1 radio=true tvg-logo="SR_SR3Saarlandwelle.png",SR 3-SCHLAGERWELT
+http://gffstream.ic.llnwd.net/stream/gffstream_gffstream1
+#EXTINF:-1 radio=true tvg-logo="swr__swr1.png",SWR1 BADEN-WÜRTTEMBERG
+http://swr-mp3-m-swr1bw.akacast.akamaistream.net/7/245/137133/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr1bw
+#EXTINF:-1 radio=true tvg-logo="swr__swr1.png",SWR1 RHEINLAND-PFALZ
+http://swr-mp3-m-swr1rp.akacast.akamaistream.net/7/467/137134/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr1rp
+#EXTINF:-1 radio=true tvg-logo="swr_swr2.png",SWR2
+http://swr-mp3-m-swr2.akacast.akamaistream.net/7/721/137135/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr2
+#EXTINF:-1 radio=true tvg-logo="swr_swr2.png",SWR2 ARCHIVRADIO
+http://swr-mp3-m-swr2raka01.akacast.akamaistream.net/7/781/137142/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr2raka01
+#EXTINF:-1 radio=true tvg-logo="swr_swr3.png",SWR3
+http://swr-mp3-m-swr3.akacast.akamaistream.net/7/720/137136/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr3
+#EXTINF:-1 radio=true tvg-logo="swr_swr4.png",SWR4 BADEN-WÜRTTEMBERG
+http://swr-mp3-m-swr4bw.akacast.akamaistream.net/7/426/137137/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr4bw
+#EXTINF:-1 radio=true tvg-logo="swr_swr4.png",SWR4 RHEINLAND-PFALZ
+http://swr-mp3-m-swr4rp.akacast.akamaistream.net/7/906/137138/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr4rp
+#EXTINF:-1 radio=true tvg-logo="swr_swrinfo.png",SWRINFO
+http://swr-mp3-m-info.akacast.akamaistream.net/7/40/137140/v1/gnl.akacast.akamaistream.net/swr-mp3-m-info
+#EXTINF:-1 radio=true tvg-logo="wdr_wdr2.png",WDR 2
+http://wdr-mp3-m-wdr2-koeln.akacast.akamaistream.net/7/812/119456/v1/gnl.akacast.akamaistream.net/wdr-mp3-m-wdr2-koeln
+#EXTINF:-1 radio=true tvg-logo="wdr_wdr3.png",WDR 3
+http://wdr-3.akacast.akamaistream.net/7/47/119437/v1/gnl.akacast.akamaistream.net/wdr-3
+#EXTINF:-1 radio=true tvg-logo="wdr_wdr4.png",WDR 4
+http://wdr-4.akacast.akamaistream.net/7/42/119438/v1/gnl.akacast.akamaistream.net/wdr-4
+#EXTINF:-1 radio=true tvg-logo="wdr_wdr5.png",WDR 5
+http://wdr-5.akacast.akamaistream.net/7/41/119439/v1/gnl.akacast.akamaistream.net/wdr-5
+#EXTINF:-1 radio=true tvg-logo="wdr_wdr_event.png",WDR EVENT
+http://www.metafilegenerator.de/WDR/radioevent2/mp3/webm.m3u
+#EXTINF:-1 radio=true tvg-logo="hr_youfm.png",YOU FM
+http://hr-mp3-m-youfm.akacast.akamaistream.net/7/246/142136/v1/gnl.akacast.akamaistream.net/hr-mp3-m-youfm
+#EXTINF:-1 radio=true tvg-logo="hr_youfm.png",BLACKSTREAM
+http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w75a
+#EXTINF:-1 radio=true tvg-logo="hr_youfm.png",CLUBSTREAM
+http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w76a
+#EXTINF:-1 radio=true tvg-logo="hr_youfm.png",ROCKSTREAM
+http://gffstream.ic.llnwd.net/stream/gffstream_mp3_w77a
+#EXTINF:-1 radio=true tvg-logo="SR_UnserDing.png",ZUKUNFT
+http://gffstream.ic.llnwd.net/stream/gffstream_gffstream2
